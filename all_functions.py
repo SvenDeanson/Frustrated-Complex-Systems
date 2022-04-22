@@ -409,7 +409,6 @@ def Properties(G):
 
     print(frustration_count(G)/len(G.edges()))
 
-
 ###############ANNEALING#################
 
 def random_neighbour(G):
